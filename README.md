@@ -13,7 +13,13 @@ The second important job is the second
     <title>task2</title>
   </head>
   <body>
-   
+   <P Align="center" >
+ <img src="D:\ggg.png" width="70" height="70" alt="" ><br> 
+ <h1 Align="center">Checkout form</h1></P>
+<P Align="center" >Below is an example form built entirely with Bootstraps form controls.Each required form group has a<br> validation state that can be triggered by attempting to submit whihout completing it</p>
+
+
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
