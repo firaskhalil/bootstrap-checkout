@@ -106,7 +106,74 @@ The second important job is the second
 </form>
 </div>
 
+<div class="col-md-6 mb-3">
+<h4>Yuor cart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp  <img src="D:\tt.png" width="50" height="50" alt="" ></h4>
 
+<div class="row" >
+<div class="col-md-6 mb-3">
+<table class="table table-bordered" >
+  <thead>
+    <tr>
+      
+      <th scope="col">Product name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp         <font size=1>   $12<br>Brief description </font> </th>
+        
+
+      
+    </tr>
+  
+  
+    <tr>
+<th scope="col">Second product &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp        <font size=1>   $8<br>Brief description </font> </th>
+      
+      
+    </tr>
+    <tr>
+      
+     <th scope="col">Third item &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp         <font size=1>   $5<br>Brief description </font> </th>
+      
+    </tr>
+    <tr>
+      
+    <th scope="col"><font color="Green">Promo code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp         <font size=1>   -$5<br>EXAMPLECODE </font></font> </th>
+     
+    </tr>
+
+   <tr>
+      
+    <th scope="col">Total(USD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp            $20<br> </th>
+     
+    </tr>
+
+   <tr>
+      <div class="row" >
+<div class="col-md-5"> 
+   
+  <th scope="col">
+    
+<label class="sr-only" for="inlineFormInputGroup">Username</label>
+      <div class="input-group mb-2">
+        <div class="input-group-prepend">
+         
+        <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="Promo code">
+ <div class="input-group-text">Redeem</div>
+        </div>
+      </div>
+    </div>
+
+  </th>
+</div>
+     
+ 
+  </div>
+
+    </tr>
+</thead>
+
+</table>
+</div>
+  </div>
+ </div>
+ </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
