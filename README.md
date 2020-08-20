@@ -175,6 +175,19 @@ The second important job is the second
  </div>
  </div>
 
+<!-- Footer -->
+<footer class="page-footer font-small teal pt-4">
+
+  
+  <div class="footer-copyright text-center py-3">© 2017-2018 Company Name<br>
+    <a href="https://mdbootstrap.com/">Privacy </a>
+ <a href="https://mdbootstrap.com/">Terms </a>
+ <a href="https://mdbootstrap.com/">Support</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
