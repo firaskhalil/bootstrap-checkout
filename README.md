@@ -18,6 +18,93 @@ The second important job is the second
  <h1 Align="center">Checkout form</h1></P>
 <P Align="center" >Below is an example form built entirely with Bootstraps form controls.Each required form group has a<br> validation state that can be triggered by attempting to submit whihout completing it</p>
 
+<div class="container mt-5 mb- 4" >
+  <div class="row" >
+ <div class="col-md-6 mb-3">
+<form  >
+<div class="form-row" >
+<h4>Billing address </h4>
+</div>
+
+  <div class="form-row" >
+    <div class="col-md-6 mb-3">
+      <label for="validationDefault01">First name</label>
+      <input type="text" class="form-control" id="validationDefault01" value="Mark" required>
+    </div>
+    <div class="col-md-6 mb-3">
+      <label for="validationDefault02">Last name</label>
+      <input type="text" class="form-control" id="validationDefault02" value="Otto" required>
+    </div>
+  </div>
+
+<div class="form-row" >
+<div class="col-md-12 mb-3">
+<label for="validationDefault01">Username</label>
+    <div class="input-group input-group-sm">
+
+  <div class="input-group-prepend">
+ 
+    <span class="input-group-text">@</span>
+  </div>
+  <input type="text" class="form-control fix-rounded-right" id="validationDefault01" value="Username"  required>
+  <div class="invalid-feedback">
+    Please choose a username.
+  </div>
+</div>
+  </div>
+</div>
+
+ <div class="form-row" >
+    <div class="col-md-12 mb-3">
+      <label for="validationDefault01">Email(Optional)</label>
+      <input type="text" class="form-control" id="validationDefault01" value="you@eample.com" required>
+    </div>
+    
+  </div>
+ <div class="form-row" >
+    <div class="col-md-12 mb-3">
+      <label for="validationDefault01">Address</label>
+      <input type="text" class="form-control" id="validationDefault01" value="1234 Main St" required>
+    </div>
+    
+  </div>
+ <div class="form-row" >
+    <div class="col-md-12 mb-3">
+      <label for="validationDefault01">Adress2(Optional)</label>
+      <input type="text" class="form-control" id="validationDefault01" value="Apartment our suite" required>
+    </div>
+    
+  </div>
+  <div class="form-row">
+    
+
+<div class="col-md-5 mb-3">
+      <label for="validationDefault04">Country</label>
+      <select class="custom-select" id="validationDefault04" required>
+        <option selected disabled value="">Choose...</option>
+        <option>...</option>
+      </select>
+    </div>
+    <div class="col-md-5 mb-3">
+      <label for="validationDefault04">State</label>
+      <select class="custom-select" id="validationDefault04" required>
+        <option selected disabled value="">Choose...</option>
+        <option>...</option>
+      </select>
+    </div>
+    <div class="col-md-2 mb-3">
+      <label for="validationDefault05">Zip</label>
+      <input type="text" class="form-control" id="validationDefault05" required>
+    </div>
+  </div>
+<div class="form-row" >
+   <div class="col-md-12 mb-3">
+   <!-- button class="btn btn-primary" type="submit" class="form-control">Countinue to checkout</button> -->
+<button type="button" class="btn btn-primary btn-lg btn-block">Countinue to checkout </button>
+    </div>
+</div>
+</form>
+</div>
 
 
 
